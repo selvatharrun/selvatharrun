@@ -4,7 +4,8 @@
 I'm a student exploring software development and problem-solving.
 - I like machine learning.
 - Java | SQL | python (for ML).
-- FASTAPI
+- GCP, vertex, cloud vision, cloud document ai.
+- Flask and FASTAPI
 - and some more shit i play around with.
 
 
