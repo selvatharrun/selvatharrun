@@ -13,5 +13,3 @@ I'm a student exploring software development and problem-solving.
 
 lol
 Thanks for checking out my projects!
-
-![](https://leetcard.jacoblin.cool/selvatharrun?ext=heatmap)
