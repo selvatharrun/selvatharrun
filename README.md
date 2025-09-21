@@ -8,7 +8,5 @@ I'm a student exploring software development and Machine Learning.
 - Competitive coding (LeetCode).
 - GCP, MCP, Flask, FastAPI.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selvatharrun&layout=compact)
-
 lol
 Thanks for checking out my projects!
