@@ -2,8 +2,7 @@
 ## 👋 Hi, I'm S. Selva Tharrun
 
 I like Machine Learning.
-I like building stuff that involves core concepts, from the scratch, from the foundation type stuff.
-And if u see my projects, u would realize thats the case. 
+I like building stuff that involves core concepts, from the scratch.
 
 - Machine Learning, Deep Learning .
 - Java | SQL | python (for ML).
